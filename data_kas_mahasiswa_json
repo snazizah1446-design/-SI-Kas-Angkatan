@@ -1,0 +1,170 @@
+[
+  {
+    "nama": "Jaemin",
+    "golongan": "A",
+    "aktif": true,
+    "pembayaran": {
+      "2026": {
+        "Jan": true,
+        "Feb": true,
+        "Mar": true,
+        "Apr": true,
+        "Mei": true,
+        "Jun": true,
+        "Jul": true,
+        "Ags": true,
+        "Sep": true,
+        "Okt": true,
+        "Nov": true,
+        "Des": true
+      }
+    }
+  },
+  {
+    "nama": "Mark Lee",
+    "golongan": "C",
+    "aktif": true,
+    "pembayaran": {
+      "2026": {
+        "Jan": true,
+        "Feb": true,
+        "Mar": true,
+        "Apr": true,
+        "Mei": true,
+        "Jun": true,
+        "Jul": true,
+        "Ags": true,
+        "Sep": true,
+        "Okt": true,
+        "Nov": true,
+        "Des": true
+      }
+    }
+  },
+  {
+    "nama": "Haechan",
+    "golongan": "B",
+    "aktif": true,
+    "pembayaran": {
+      "2026": {
+        "Jan": true,
+        "Feb": true,
+        "Mar": true,
+        "Apr": true,
+        "Mei": true,
+        "Jun": true,
+        "Jul": true,
+        "Ags": true,
+        "Sep": true,
+        "Okt": true,
+        "Nov": true,
+        "Des": true
+      }
+    }
+  },
+  {
+    "nama": "Johny",
+    "golongan": "D",
+    "aktif": true,
+    "pembayaran": {
+      "2026": {
+        "Jan": true,
+        "Feb": true,
+        "Mar": true,
+        "Apr": true,
+        "Mei": true,
+        "Jun": true,
+        "Jul": true,
+        "Ags": true,
+        "Sep": true,
+        "Okt": true,
+        "Nov": true,
+        "Des": true
+      }
+    }
+  },
+  {
+    "nama": "Renjun",
+    "golongan": "C",
+    "aktif": true,
+    "pembayaran": {
+      "2026": {
+        "Jan": true,
+        "Feb": true,
+        "Mar": true,
+        "Apr": true,
+        "Mei": true,
+        "Jun": true,
+        "Jul": true,
+        "Ags": true,
+        "Sep": true,
+        "Okt": true,
+        "Nov": true,
+        "Des": true
+      }
+    }
+  },
+  {
+    "nama": "Chenle",
+    "golongan": "D",
+    "aktif": true,
+    "pembayaran": {
+      "2026": {
+        "Jan": true,
+        "Feb": true,
+        "Mar": true,
+        "Apr": true,
+        "Mei": true,
+        "Jun": true,
+        "Jul": true,
+        "Ags": true,
+        "Sep": true,
+        "Okt": true,
+        "Nov": true,
+        "Des": true
+      }
+    }
+  },
+  {
+    "nama": "Jisung",
+    "golongan": "A",
+    "aktif": true,
+    "pembayaran": {
+      "2026": {
+        "Jan": true,
+        "Feb": true,
+        "Mar": true,
+        "Apr": true,
+        "Mei": true,
+        "Jun": true,
+        "Jul": true,
+        "Ags": true,
+        "Sep": true,
+        "Okt": true,
+        "Nov": true,
+        "Des": true
+      }
+    }
+  },
+  {
+    "nama": "Jeno",
+    "golongan": "B",
+    "aktif": true,
+    "pembayaran": {
+      "2026": {
+        "Jan": true,
+        "Feb": true,
+        "Mar": true,
+        "Apr": true,
+        "Mei": true,
+        "Jun": true,
+        "Jul": true,
+        "Ags": true,
+        "Sep": true,
+        "Okt": true,
+        "Nov": true,
+        "Des": true
+      }
+    }
+  }
+]
